@@ -213,8 +213,8 @@ h4,h3{
   transform: scale(1);
 }
 .menu .navbar-brand img {
-  width: 300px;
-  opacity: 0;
+  width: 200px;
+
 }
 .menu .navbar{
     padding:0px;
